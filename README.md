@@ -1,2 +1,0 @@
-# NewsMood
-Homework Social Media
